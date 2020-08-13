@@ -20,5 +20,8 @@ public class Main {
         }
         System.out.println(file);
 
+        Integer a = 1;
+        System.out.println(a instanceof Object);
+
     }
 }
