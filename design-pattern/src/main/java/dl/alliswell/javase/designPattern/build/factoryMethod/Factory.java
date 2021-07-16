@@ -1,4 +1,4 @@
-package dl.alliswell.javase.designMode.build.factoryMethod;
+package dl.alliswell.javase.designPattern.build.factoryMethod;
 
 /**
  * @author: dlliu

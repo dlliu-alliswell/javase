@@ -1,4 +1,4 @@
-package dl.alliswell.javase.designMode;
+package dl.alliswell.javase.designPattern;
 
 import org.junit.Test;
 

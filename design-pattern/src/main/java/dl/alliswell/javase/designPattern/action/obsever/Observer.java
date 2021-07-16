@@ -1,4 +1,4 @@
-package dl.alliswell.javase.designMode.action.obsever;
+package dl.alliswell.javase.designPattern.action.obsever;
 
 /**
  * @author: dlliu
